@@ -1,0 +1,20 @@
+.imagent{
+    width: 50px;
+}
+.imagentxt{
+    width: 90px;
+    margin-left: 10px;
+}
+.blancotxt{
+    color: #fff !important;
+}
+.logoBlack{
+    width: 120px;
+    margin-left: 10px;
+}
+.post-abs{
+    background: rgba(0, 0, 0, 0.5);
+}
+#section4, #section7{
+    background: rgba(0, 0, 0, 0.3);
+}
